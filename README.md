@@ -1,6 +1,6 @@
-# Interface para visualização de arquivos .segy e .sgy
+# Seismic Visualizer
+Uma interface em python para visualização de imagens sísmicas (.segy)
 
-Uma simples interface para visualização de arquivos .segy e .sgy feito pela Linha 1.
 
 ## Description
 
